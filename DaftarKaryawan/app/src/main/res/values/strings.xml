@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DaftarKaryawan</string>
+    <string name="selected_item">SelectedItem</string>
+    <string-array name="Jabatan">
+        <item>Kepala Bagian</item>
+        <item>Pegawai Tetap</item>
+        <item>Honorer</item>
+    </string-array>
+</resources>
